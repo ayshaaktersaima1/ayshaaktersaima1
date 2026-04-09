@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Saima+👋;Aspiring+Full+Stack+Web+Developer;Learning+React+%26+Next.js;Building+Projects+Every+Day;Growing+Step+by+Step" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Saima</h1>
 <h3 align="center">An aspiring full stack web developer from Bangladesh</h3>
 
