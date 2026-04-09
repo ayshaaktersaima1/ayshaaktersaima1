@@ -11,7 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.topcoder.com/members/4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="4207" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aysha-akter-saima" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+</a>
+<a href="https://github.com/ayshaaktersaima1" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
