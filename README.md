@@ -54,13 +54,13 @@ Currently exploring modern frontend and full stack technologies while building s
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayshaaktersaima1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayshaaktersaima1&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshaaktersaima1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshaaktersaima1&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshaaktersaima1&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ayshaaktersaima1&theme=radical" />
 </p>
