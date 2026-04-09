@@ -45,7 +45,7 @@ Currently exploring modern frontend and full stack technologies while building s
   <a href="https://www.linkedin.com/in/aysha-akter-saima" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="blank">
+  <a href="https://github.com/ayshaaktersaima1" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
   </a>
 </p>
@@ -54,13 +54,13 @@ Currently exploring modern frontend and full stack technologies while building s
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayshaaktersaima1&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshaaktersaima1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshaaktersaima1&theme=radical" />
 </p>
