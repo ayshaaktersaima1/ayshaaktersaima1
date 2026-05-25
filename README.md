@@ -12,9 +12,10 @@
 I’m a passionate learner and builder in web development.  
 Currently exploring modern frontend and full stack technologies while building small projects.  
 
-- 🔭 I’m currently working on **Frontend projects using React**  
-- 🌱 I’m currently learning **React, Next.js, and Full Stack Development**  
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React**  
+- 🔭 Currently building  **full stack web applications**  
+- 🌱 Learning advanced  **Next.js and backend development**  
+- 💬 Interested in modern **UI/UX and scalable applications**  
+- 📫 Ask me about  **React, Next.js, Tailwind CSS, MongoDB, and JavaScript**  
 - 📫 How to reach me: **ayshaaktersaima1@gmail.com**  
 
 ---
