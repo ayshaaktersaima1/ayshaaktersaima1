@@ -46,7 +46,7 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 ## 🚀 What I'm Up To
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 Currently building with **Next.js, React, Node.js, Express & MongoDB**
 - 💡 Passionate about **scalable web architecture** and clean UI
@@ -90,7 +90,7 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayshaaktersaima1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayshaaktersaima1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshaaktersaima1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
