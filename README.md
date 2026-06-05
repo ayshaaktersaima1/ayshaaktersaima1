@@ -1,4 +1,5 @@
 <div align="center">
+![Profile views](https://komarev.com/ghpvc/?username=ayshaaktersaima1&style=for-the-badge&color=blueviolet)
 
 <img width="1774" height="887" alt="ChatGPT Image Jun 5, 2026, 11_52_41 AM" src="https://github.com/user-attachments/assets/c25ccac0-0aab-4704-bfc0-9762127877ba" />
 </div>
@@ -105,7 +106,7 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ayshaaktersaima1&style=for-the-badge&color=blueviolet)
+
 
 *Let's build something meaningful together.*
 
