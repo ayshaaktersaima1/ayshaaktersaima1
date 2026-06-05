@@ -22,16 +22,17 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/aysha-akter-saima" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+</a>
+<a href="https://github.com/ayshaaktersaima1" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
+</a>
 
-<div align="center">
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taupe-ten-90.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-akter-saima)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayshaaktersaima1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshaaktersaima1)
-
-</div>
 
 ---
 
