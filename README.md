@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### I am Aysha Akter Saima
+###Hi👋 I am Aysha Akter Saima
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+real-world+web+applications)
 
