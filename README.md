@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/c25ccac0-0aab-4dc4-bfc0-9762127877ba" />
+<img width="1774" height="887" alt="ChatGPT Image Jun 5, 2026, 11_52_41 AM" src="https://github.com/user-attachments/assets/c25ccac0-0aab-4704-bfc0-9762127877ba" />
+</div>
 
 </div>
 
@@ -24,9 +25,19 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taupe-ten-90.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-akter-saima)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshaaktersaima1)
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://portfolio-taupe-ten-90.vercel.app/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/aysha-akter-saima" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+</a>
+<a href="https://github.com/ayshaaktersaima1" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
+</a>
+</p>
 
 </div>
 
