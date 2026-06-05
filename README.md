@@ -23,7 +23,7 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 ---
 
-<div align="center">
+<div>
 
 ## 🌐 Connect with Me
 
@@ -48,7 +48,6 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 <img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 Currently building with **Next.js, React, Node.js, Express & MongoDB**
-- 🌱 Deepening expertise in **System Design & Advanced JavaScript**
 - 💡 Passionate about **scalable web architecture** and clean UI
 - 🎯 Focused on **long-term growth** and solving real-world problems
 - 🌍 Open to **remote opportunities & collaboration**
@@ -81,7 +80,7 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 **Tools & Others**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
