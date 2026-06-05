@@ -1,7 +1,7 @@
-
 <div align="center">
 
-<img width="1774" height="887" alt="ChatGPT Image Jun 5, 2026, 11_52_41 AM" src="https://github.com/user-attachments/assets/c25ccac0-0aab-4704-bfc0-9762127877ba" />
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/c25ccac0-0aab-4dc4-bfc0-9762127877ba" />
+
 </div>
 
 ---
@@ -22,29 +22,28 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 ---
 
-## 🔗 Connect with Me
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taupe-ten-90.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-akter-saima)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshaaktersaima1)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taupe-ten-90.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-akter-saima)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshaaktersaima1)
 
 </div>
 
-
 ---
 
-## 💬 Talking About Me
+## 🚀 What I'm Up To
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 Currently building with **Next.js, React, Node.js, Express & MongoDB**
 - 🌱 Deepening expertise in **System Design & Advanced JavaScript**
 - 💡 Passionate about **scalable web architecture** and clean UI
 - 🎯 Focused on **long-term growth** and solving real-world problems
 - 🌍 Open to **remote opportunities & collaboration**
-- 📫 Reach me: **ayshaaktersaima1@gmail.com** | **01780613588**
+- 📫 Reach me: **ayshaaktersaima1@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -87,21 +86,12 @@ Full-Stack Developer skilled in **JavaScript, React.js, Next.js** | Building sca
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayshaaktersaima1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshaaktersaima1&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## ⭐ My Absolute Favorites
-
-- Building complete full-stack applications from scratch
-- Crafting clean, responsive user interfaces
-- Debugging tricky backend logic
-- Learning new tools and frameworks independently
-- Collaborating with developers on meaningful projects
-
----
 
 <div align="center">
 
